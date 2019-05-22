@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/bartoszsokolik/spring-boot-swagger.svg?branch=master)](https://travis-ci.org/bartoszsokolik/spring-boot-swagger)
+
 ## About
 
 Simple REST application with Swagger documentation
